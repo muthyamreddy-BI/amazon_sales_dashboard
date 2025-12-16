@@ -40,6 +40,9 @@ The Amazon Sales Dashboard is an interactive Power BI report that provides end-t
 - Improved understanding of **sales analytics and visualization design**  
 - Developed storytelling skills for business insights presentation 
 
+
+
+
 ### 👤 Author
 Muthyam Reddy  
 Aspiring Power BI Analyst | Data Enthusiast | 
