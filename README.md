@@ -19,7 +19,7 @@ The Amazon Sales Dashboard is an interactive Power BI report that provides end-t
   - Phones → $22K
   
 - **Return Rate:** 5% (95% successful orders)  
-- **Shipping Mode Distribution:** *Standard Class (58%) , dominates shipping efficiency  
+- **Shipping Mode Distribution:** Standard Class (58%) , dominates shipping efficiency  
 - **Customer Segments:** Consumer (51%), leads in overall order share  
 - **Quarterly Sales Trend:** Highest sales recorded in **Q1 ($313K)**, steady growth across other quarters  
 
@@ -31,15 +31,14 @@ The Amazon Sales Dashboard is an interactive Power BI report that provides end-t
 - KPI cards for quick overview of key metrics  
 
 ### ⚙️ Data Transformation & Modeling
-- Cleaned inconsistent fields and date formats using **Power Query**  
-- Built **data model relationships** between sales, category, and customer tables    
+- Cleaned inconsistent fields and date formats using **Power Query**      
 - Optimized visuals for clarity, interactivity, and business relevance  
 
 
 ### 🧠 Key Learnings
-- Hands-on experience with **data cleaning, ETL, and DAX** in Power BI.  
-- Improved understanding of **sales analytics and visualization design**.  
-- Developed storytelling skills for business insights presentation.  
+- Hands-on experience with **data cleaning, ETL, and DAX** in Power BI  
+- Improved understanding of **sales analytics and visualization design**  
+- Developed storytelling skills for business insights presentation 
 
 ### 👤 Author
 Muthyam Reddy  
